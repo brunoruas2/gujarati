@@ -16,3 +16,4 @@ devtools::install_github('https://github.com/brunoruas2/gujarati')
 
 # Usage
 to use the Table 1.1, just use `gurajati::Table1_1` and you are good to go.
+to see the description of the table just run `?gujarati::Table1_1` and see the side painel for more info.
