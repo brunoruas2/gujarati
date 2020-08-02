@@ -1,7 +1,7 @@
 # gujarati
 R data package for "Basic Econometrics 5ed" by Damodar N. Gujarati and Dawn C. Porter.
 
-Inpired by Justin's wooldrige package (https://github.com/JustinMShea/wooldridge) i had tried to do the same thing to other great Econometric book.
+Inpired by Justin's wooldridge package (https://github.com/JustinMShea/wooldridge) i had tried to do the same thing to other great Econometric book.
 
 This is the first version, so the only way to install it is using the package devtools.
 
