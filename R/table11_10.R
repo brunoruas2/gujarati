@@ -1,0 +1,19 @@
+#' Table 11_10
+#'
+#' salary and related data on 447 executives of Fortune 500 companies
+#' Source: http://lib.stat.cmu.edu/ DASL/Datafiles/SmokingandCancer.html
+#'
+#' @docType data
+#' @usage data('Table11_10')
+#' @format
+#'
+#' \itemize{
+#' \item \strong{salary: }1999 salary and bonuses
+#' \item \strong{totcomp: }1999 CEO total compensation
+#' \item \strong{tenure: }number of years as CEO (0 if less than 6 months);
+#' \item \strong{age: }age of CEO
+#' \item \strong{sales: }total 1998 sales revenue of the firm
+#' \item \strong{profits: }1998 profits for the firm
+#' \item \strong{assets: }total assets of the firm in 1998
+#' }
+'Table11_10'

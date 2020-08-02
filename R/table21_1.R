@@ -1,0 +1,19 @@
+#' Table 21_1
+#'
+#' Macroeconomic data
+#' Source: All the data are collected from FRED, the economic website of the Federal Reserve Bank of St. Louis. GDP, DPI, and PCE are in constant dollars, here 2000 dollars. CP and Dividend are in nominal dollars
+#'
+#' @docType data
+#' @usage data('Table21_1')
+#' @format
+#'
+#' \itemize{
+#' \item \strong{Year}
+#' \item \strong{Quarter}
+#' \item \strong{RPD: }real disposable personal income (billions of dollars)
+#' \item \strong{PIB: }gross domestic product (billions of dollars)
+#' \item \strong{DCP: }real personal consumption expenditure (billions of dollars)
+#' \item \strong{LC: }corporate profits (billions of dollars)
+#' \item \strong{DIVIDEND: } dividends, (billions of dollars)
+#' }
+'Table21_1'
