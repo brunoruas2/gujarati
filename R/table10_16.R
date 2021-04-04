@@ -4,7 +4,7 @@
 #' Source: W. Vandaele, “Participation in Illegitimate Activities: Erlich Revisted,” in A. Blumstein, J. Cohen, and D. Nagin, eds., Deterrence and Incapacitation, National Academy of Sciences, 1978, pp. 270–335
 #'
 #' @docType data
-#' @usage data('Table10_16')
+#' @usage gujarati::Table10_16
 #' @format
 #'
 #' \itemize{

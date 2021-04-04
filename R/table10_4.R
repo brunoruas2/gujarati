@@ -3,7 +3,7 @@
 #' Hypothetical Data on Y, X2, and X3
 #'
 #' @docType data
-#' @usage data('Table10_4')
+#' @usage gujarati::Table10_4
 #' @format
 #' \itemize{
 #' \item \strong{Y}

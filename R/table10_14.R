@@ -4,7 +4,7 @@
 #' Source: Business Statistics, 1986, A Supplement to the Current Survey of Business, U.S. Department of Commerce.
 #'
 #' @docType data
-#' @usage data('Table10_14')
+#' @usage gujarati::Table10_14
 #' @format
 #'
 #' \itemize{

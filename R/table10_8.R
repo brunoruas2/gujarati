@@ -4,7 +4,7 @@
 #' Source: J. Longley, “An Appraisal of Least-Squares Programs from the Point of the User,” Journal of the American Statistical Association, vol. 62, 1967, pp. 819–841
 #'
 #' @docType data
-#' @usage data('Table10_8')
+#' @usage gujarati::Table10_8
 #' @format
 #'
 #' \itemize{

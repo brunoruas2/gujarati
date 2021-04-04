@@ -4,7 +4,7 @@
 #' Source: Department of Labor, Bureau of Labor Statistics
 #'
 #' @docType data
-#' @usage data('Table10_13')
+#' @usage gujarati::Table10_13
 #' @format
 #'
 #' \itemize{

@@ -4,7 +4,7 @@
 #' Source: http://lib.stat.cmu.edu/DASL/Datafiles/Cheese.html
 #'
 #' @docType data
-#' @usage data('Table10_18')
+#' @usage gujarati::Table10_18
 #' @format
 #'
 #' \itemize{

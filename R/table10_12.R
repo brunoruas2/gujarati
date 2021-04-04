@@ -4,7 +4,7 @@
 #' Source: L. R. Klein and A. S. Goldberger, An Economic Model of the United States, 1929–1952, North Holland Publishing Company, Amsterdam, 1964, p. 131.
 #'
 #' @docType data
-#' @usage data('Table10_12')
+#' @usage gujarati::Table10_12
 #' @format
 #'
 #' \itemize{

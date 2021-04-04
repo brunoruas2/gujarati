@@ -4,7 +4,7 @@
 #' Source: D. H. Greenberg and M. Kosters, Income Guarantees and the Working Poor, Rand Corporation, R-579-OEO, December 1970
 #'
 #' @docType data
-#' @usage data('Table10_15')
+#' @usage gujarati::Table10_15
 #' @format
 #'
 #' \itemize{

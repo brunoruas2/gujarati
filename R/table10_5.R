@@ -3,7 +3,7 @@
 #' Hypothetical Data on Consumption Expenditure Y, Income X2, and Wealth X3
 #'
 #' @docType data
-#' @usage data('Table10_5')
+#' @usage gujarati::Table10_5
 #' @format
 #' \itemize{
 #' \item \strong{Y}

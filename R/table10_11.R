@@ -3,7 +3,7 @@
 #' hypothetical data
 #'
 #' @docType data
-#' @usage data('Table10_11')
+#' @usage gujarati::Table10_11
 #' @format
 #'
 #' \itemize{

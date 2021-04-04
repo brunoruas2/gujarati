@@ -4,7 +4,7 @@
 #' Source: See table 7.12
 #'
 #' @docType data
-#' @usage data('Table10_7')
+#' @usage gujarati::Table10_7
 #' @format
 #' \itemize{
 #' \item \strong{Year}

@@ -4,7 +4,7 @@
 #' Source: Department of Labor, Bureau of Labor Statistics and http://siadapp.dmdc.osd.mil/personnel/MILITARY/Miltop.htm
 #'
 #' @docType data
-#' @usage data('Table10_17')
+#' @usage gujarati::Table10_17
 #' @format
 #'
 #' \itemize{
